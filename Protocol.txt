@@ -1,0 +1,7 @@
+Protocol 
+Client			Server				Description	
+				Disable 2 cards		When the cards match the server diables those 2 cards
+Enable cards	Enable 2 cards		If player wants to enable any 2 cards 
+				Increment Score 	If 2 cards match then the server increments score for current player
+				
+				

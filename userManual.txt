@@ -1,0 +1,14 @@
+User Manual 
+Each player has to assign themself ( integers only, will implement strings next prototype)
+By default Player 0 is assigned 
+Once assigned user can 
+	Switch to differnt player
+	User can flip cards by clicking on them
+	Flip them back to default cards
+	Evaluate 2 cards
+	Increment their score
+	Disable 2 cards so that those cards cannot be flipped again
+	Enable 2 cards 
+	Quit the game 
+	
+
