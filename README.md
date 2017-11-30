@@ -1,4 +1,5 @@
 # MemoryPrototype1
+# inheritance, Java, Object oriented programming, GUI, javax.swing
 This project is the first prototype of a networking game.
 Game to be implemented is Memory which has 10 cards on screen and there is a 
 pair for each type of card. Players have to switch manually in this prototype.
